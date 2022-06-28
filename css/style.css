@@ -1,0 +1,10 @@
+body{
+    background-image: url(../multimedia/42c3f7418f981eae673f5aa5ccf53286939d41a4.jpg);
+}
+
+h1{
+    font-size: 66px;
+    text-align: center;
+    background-image: radial-gradient(rgb(141, 206, 236), white);
+
+}
